@@ -1,9 +1,10 @@
 {
-  "name": "atm",
-  "version": "1.0.0",
+  "name": "atm-srk-project",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
